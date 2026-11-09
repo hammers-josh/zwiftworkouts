@@ -1,0 +1,44 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>10x10+1min @ Z2/3</name>
+    <description>10 sets of 10 min @ Z2 and Z3 with 1 min free ride after each interval to do with as you please</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.44403845" PowerHigh="0.75173074" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.71326923" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.75173074" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.80942309" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.5" pace="0"/>
+        <SteadyState Duration="600" Power="0.71326923" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.5" pace="0"/>
+        <SteadyState Duration="600" Power="0.80942309" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.75173074" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.80942309" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.69403845" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.5" pace="0"/>
+        <SteadyState Duration="600" Power="0.80942309" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.69403845" pace="0"/>
+        <FreeRide Duration="60" FlatRoad="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <Cooldown Duration="600" PowerLow="0.75173074" PowerHigh="0.50173074" pace="0"/>
+    </workout>
+</workout_file>

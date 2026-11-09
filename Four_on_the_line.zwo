@@ -1,0 +1,25 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>Four x Sixty Mins @ Z3</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.44403845" PowerHigh="0.75173074" pace="0"/>
+        <SteadyState Duration="600" Power="0.82865381" pace="0"/>
+        <SteadyState Duration="600" Power="0.79019231" pace="0"/>
+        <SteadyState Duration="900" Power="0.73250002" pace="0"/>
+        <SteadyState Duration="900" Power="0.82865381" pace="0"/>
+        <SteadyState Duration="300" Power="0.5" pace="0"/>
+        <SteadyState Duration="1200" Power="0.82865381" pace="0"/>
+        <SteadyState Duration="900" Power="0.69019228" pace="0"/>
+        <SteadyState Duration="1200" Power="0.79019231" pace="0"/>
+        <SteadyState Duration="300" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="1200" Power="0.82865381" pace="0"/>
+        <SteadyState Duration="1200" Power="0.77096152" pace="0"/>
+        <SteadyState Duration="1200" Power="0.82865381" pace="0"/>
+        <SteadyState Duration="300" Power="0.50173074" pace="0"/>
+        <IntervalsT Repeat="3" OnDuration="600" OffDuration="600" OnPower="0.82865381" OffPower="0.77096152" pace="0" OverUnder="1"/>
+        <Cooldown Duration="600" PowerLow="0.5978846" PowerHigh="0.50173074" pace="0"/>
+    </workout>
+</workout_file>

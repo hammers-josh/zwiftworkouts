@@ -1,0 +1,28 @@
+<workout_file>
+    <author>J.Gomez (TeamQuad)</author>
+    <name>6 by 4'  Z4</name>
+    <description>6  x 4 min on/4 min off with warmup spins. Efforts a bit below FTP, easy recovery between. We'll play with cadence for the first 5 efforts, then choose your preferred cadence for the last effort.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+    </tags>
+    <workout>
+        <Warmup Duration="330" PowerLow="0.40449998" PowerHigh="0.70449996" pace="1428186484" Cadence="95"/>
+        <SteadyState Duration="30" Power="1.0045" pace="1428186484" Cadence="95"/>
+        <SteadyState Duration="90.000008" Power="0.5" pace="1428186484"/>
+        <SteadyState Duration="30.000002" Power="1.0045" pace="1428186484" Cadence="95"/>
+        <SteadyState Duration="120.00001" Power="0.50449997" pace="1428186484"/>
+        <SteadyState Duration="240" Power="0.92449993" pace="1428186484" Cadence="85"/>
+        <SteadyState Duration="240" Power="0.50449997" pace="1428186484"/>
+        <SteadyState Duration="240" Power="0.92449993" pace="1428186484" Cadence="90"/>
+        <SteadyState Duration="240" Power="0.50449997" pace="1428186484"/>
+        <SteadyState Duration="240" Power="0.92449993" pace="1428186484" Cadence="80"/>
+        <SteadyState Duration="240" Power="0.50449997" pace="1428186484"/>
+        <SteadyState Duration="240" Power="0.92449993" pace="1428186484" Cadence="95"/>
+        <SteadyState Duration="240" Power="0.50449997" pace="1428186484"/>
+        <SteadyState Duration="240" Power="0.92449993" pace="1428186484" Cadence="75"/>
+        <SteadyState Duration="240" Power="0.50449997" pace="1428186484"/>
+        <SteadyState Duration="240" Power="0.92449993" pace="1428186484"/>
+        <Cooldown Duration="300" PowerLow="0.50449997" PowerHigh="0.40449998" pace="1428186484"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,18 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>EZ Recuv</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOVERY"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.44403845" PowerHigh="0.75173074" pace="0"/>
+        <Ramp Duration="300" PowerLow="0.5978846" PowerHigh="0.75173074" pace="0"/>
+        <Ramp Duration="300" PowerLow="0.75173074" PowerHigh="0.5978846" pace="0"/>
+        <SteadyState Duration="480" Power="0.5852083" pace="0"/>
+        <IntervalsT Repeat="4" OnDuration="300" OffDuration="120" OnPower="0.67480767" OffPower="0.50173074" pace="0"/>
+        <IntervalsT Repeat="5" OnDuration="300" OffDuration="60" OnPower="0.61711538" OffPower="0.50173074" pace="0" OverUnder="1"/>
+        <Cooldown Duration="240" PowerLow="0.75173074" PowerHigh="0.44403845" pace="0"/>
+    </workout>
+</workout_file>

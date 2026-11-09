@@ -1,0 +1,30 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>Endurance Intervals w/ Bumps</name>
+    <description>5 min endurance  intervals with 2 min bumps into tempo
+, plus a little threshold fun</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="Endurance,90+"/>
+    </tags>
+    <workout>
+        <Warmup Duration="420" PowerLow="0.44403845" PowerHigh="0.73250002" pace="0"/>
+        <SteadyState Duration="60" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="15" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="30" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="15" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="120" Power="0.86711538" pace="0"/>
+        <SteadyState Duration="300" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="120" Power="0.86711538" pace="0"/>
+        <SteadyState Duration="300" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="180" Power="0.50173074" pace="0"/>
+        <IntervalsT Repeat="4" OnDuration="300" OffDuration="120" OnPower="0.69403845" OffPower="0.86711538" pace="0"/>
+        <SteadyState Duration="180" Power="0.50173074" pace="0"/>
+        <IntervalsT Repeat="4" OnDuration="240" OffDuration="60" OnPower="0.65557688" OffPower="1.0017308" pace="0"/>
+        <SteadyState Duration="60" Power="0.50173074" pace="0"/>
+        <Cooldown Duration="300" PowerLow="0.63634616" PowerHigh="0.44403845" pace="0"/>
+    </workout>
+</workout_file>

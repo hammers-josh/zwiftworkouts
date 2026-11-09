@@ -1,0 +1,59 @@
+<workout_file>
+    <author>Zwift</author>
+    <name>The Long Ride - Spiked Base (1)</name>
+    <description>Long rides are critical for building the endurance you will need to tackle a long event. But it is also important to change the pace and include some high effort surges. This helps mentally to break up the monotony of a long ride and also helps physically by stimulating your body to be able to respond even when fatigued.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="fondo"/>
+    </tags>
+    <workout>
+        <Warmup Duration="420.00003" PowerLow="0.25449997" PowerHigh="0.65449995" pace="0">
+            <textevent timeoffset="302" message="Thanks for joining in for today&apos;s long ride. This is part of Zwift&apos;s training plan for our Fondo series."/>
+            <textevent timeoffset="128.17876" message="We&apos;ve got 95min on tap for today. Starting with a nice 15min block of Z2 here."/>
+        </Warmup>
+        <SteadyState Duration="900.00006" Power="0.69403845" pace="0">
+            <textevent timeoffset="662" message="Nice and steady. You should be comfortable here. This is your &apos;in the pack&apos; pace."/>
+            <textevent timeoffset="288" message="This is a long workout, so a bit of nutrition &amp; hydration is important."/>
+        </SteadyState>
+        <SteadyState Duration="600" Power="0.80942309" pace="0">
+            <textevent timeoffset="437" message="Strong and steady here. Find a good rhythm here for this last bit."/>
+            <textevent timeoffset="160" message="Alright, stepping up the power here to 80% for 10min here. This is more like Fondo pace."/>
+        </SteadyState>
+        <SteadyState Duration="600" Power="0.69403845" pace="0">
+            <textevent timeoffset="414" message="Your HR and breathing should be nice and smooth here, just like the pedal strokes."/>
+            <textevent timeoffset="123" message="And back down here into Z2 now for 10min."/>
+        </SteadyState>
+        <SteadyState Duration="240" Power="0.57865381" pace="0">
+            <textevent timeoffset="30" message="Nice and light here. Some recovery."/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.86711538" pace="0">
+            <textevent timeoffset="30" message="Stepping it back up for this one. 80% here. Smooth steady state. But be ready for that breakaway surge at the end."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.2045" pace="0"/>
+        <SteadyState Duration="180" Power="1.0044999" pace="0">
+            <textevent timeoffset="88.999916" message="And a bit of threshold here after the breakaway."/>
+        </SteadyState>
+        <SteadyState Duration="480" Power="0.77096152" pace="0">
+            <textevent timeoffset="232" message="And stepping it down, find your rhythm."/>
+            <textevent timeoffset="420" message="Strong but smooth."/>
+        </SteadyState>
+        <SteadyState Duration="240" Power="0.55000001" pace="0">
+            <textevent timeoffset="30" message="And recovery here."/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.86711538" pace="0">
+            <textevent timeoffset="30" message="Bringing it back up here. Nice and strong. With another breakaway surge on tap."/>
+        </SteadyState>
+        <SteadyState Duration="30.000002" Power="1.2045" pace="0"/>
+        <SteadyState Duration="180.00002" Power="1.0044999" pace="0">
+            <textevent timeoffset="15" message="And back at threshold. Make that break stick!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.77096152" pace="0">
+            <textevent timeoffset="108" message="Steady now. Smooth here for 10min."/>
+            <textevent timeoffset="425" message="Almost done. Close it out strong."/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.71326923" pace="0"/>
+        <Cooldown Duration="300" PowerLow="0.65449995" PowerHigh="0.50449997" pace="0">
+            <textevent timeoffset="95" message="Cooling down now. Great job!"/>
+        </Cooldown>
+    </workout>
+</workout_file>

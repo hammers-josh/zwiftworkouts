@@ -1,0 +1,20 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>20 min Endo Blocks</name>
+    <description>20 min Z2 </description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="RECOVERY"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.42480767" PowerHigh="0.75173074" pace="0"/>
+        <SteadyState Duration="1200" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="180" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="1200" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="180" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="1200" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="180" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="1200" Power="0.69403845" pace="0"/>
+        <Cooldown Duration="360" PowerLow="0.69403845" PowerHigh="0.38634613" pace="0"/>
+    </workout>
+</workout_file>

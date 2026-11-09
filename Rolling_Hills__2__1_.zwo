@@ -1,0 +1,124 @@
+<workout_file>
+    <author>Kevin Poulton</author>
+    <name>Rolling Hills #2 (1)</name>
+    <description>This endurance session focuses on replicating the demands of outdoor rolling hills. Just like outdoors, we have a targeted lower cadence for the hills, with the power between hills just under threshold. 
+
+The body of this workout involves repeated high intensity efforts ranging in length from 30 to 40sec.</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="FTP"/>
+    </tags>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.45000002" PowerHigh="0.75" pace="0">
+            <textevent timeoffset="30" message="Today&apos;s session is a fast ride over rolling hills."/>
+            <textevent timeoffset="90" message="The main set consists of repeated low cadence efforts."/>
+            <textevent timeoffset="110" message="Much like you would find on a rolling MTB course."/>
+            <textevent timeoffset="130" message="To add another element of difficulty, we ride at threshold between hills."/>
+            <textevent timeoffset="200" message="We need a good warmup today!"/>
+        </Warmup>
+        <SteadyState Duration="60" Power="0.60000002" pace="0">
+            <textevent timeoffset="60" message="A quick effort up into zone 5."/>
+        </SteadyState>
+        <SteadyState Duration="60" Power="1.1" pace="0">
+            <textevent timeoffset="10" message="Really spin the legs here."/>
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.60000002" pace="0">
+            <textevent timeoffset="60" message="To work up to the higher intensities, we have a steady zone 3 effort."/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.80000001" pace="0">
+            <textevent timeoffset="60" message="This is a comfortable effort for you."/>
+            <textevent timeoffset="90" message="Ride with a cadence which is a little higher than your preferred rpm."/>
+            <textevent timeoffset="120" message="MTB riding will often present you with climbs and terrain that dictate a low cadence."/>
+            <textevent timeoffset="150" message="This involves engaging those strong fast twitch muscles."/>
+        </SteadyState>
+        <SteadyState Duration="60" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Next, we turn the power tap on and off quickly."/>
+            <textevent timeoffset="30" message="This will provide you with a change in cadence also."/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="30" OffDuration="30" OnPower="0.75" OffPower="0.89999998" pace="0" OverUnder="1">
+            <textevent timeoffset="0" message="Some quick succession threshold efforts here."/>
+            <textevent timeoffset="30" message="Spin fast for the threshold interval."/>
+            <textevent timeoffset="60" message="Then relax for the recovery interval."/>
+            <textevent timeoffset="90" message="Repeat this all the way through the set."/>
+            <textevent timeoffset="120" message="This shouldn&apos;t be challenging."/>
+            <textevent timeoffset="150" message="But you should be working up a sweat now."/>
+            <textevent timeoffset="180" message="This is similar to the work ahead."/>
+            <textevent timeoffset="210" message="But with reduced intensity."/>
+        </IntervalsT>
+        <SteadyState Duration="120" Power="0.64999998" pace="0">
+            <textevent timeoffset="0" message="Now for the work!"/>
+            <textevent timeoffset="30" message="Keep in mind that there is a target cadence for the high intensity."/>
+            <textevent timeoffset="60" message="Self select your cadence for the threshold effort."/>
+            <textevent timeoffset="110" message="Let&apos;s go!"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="90" OffDuration="30" OnPower="0.91999996" OffPower="1.3" pace="0">
+            <textevent timeoffset="0" message="Relax as much as possible in this effort."/>
+            <textevent timeoffset="30" message="Stay seated, then be ready to change your cadence for the work interval."/>
+            <textevent timeoffset="60" message="Although, it&apos;s all work today isn&apos;t it!"/>
+            <textevent timeoffset="80" message="Ready to hit the target cadence of 70rpm."/>
+            <textevent timeoffset="90" message="Out of the seat if you prefer!"/>
+            <textevent timeoffset="100" message="Power all the way to the top of the hill!"/>
+            <textevent timeoffset="120" message="Now bring the power back under threshold."/>
+            <textevent timeoffset="160" message="We are going to repeat this 5 times."/>
+            <textevent timeoffset="200" message="Ready to hit the next hill."/>
+            <textevent timeoffset="210" message="Straight to the target cadence of 70rpm."/>
+            <textevent timeoffset="220" message="Nice and strong!"/>
+            <textevent timeoffset="240" message="Back to the rest interval."/>
+            <textevent timeoffset="260" message="Which is really threshold :)"/>
+            <textevent timeoffset="300" message="Just 3 more hills to go."/>
+            <textevent timeoffset="500" message="Great work. You&apos;re almost there!"/>
+            <textevent timeoffset="550" message="Last hill and then we rest."/>
+        </IntervalsT>
+        <SteadyState Duration="120" Power="0.64999998" pace="0">
+            <textevent timeoffset="30" message="That was great!"/>
+            <textevent timeoffset="40" message="How did you find the low cadence?"/>
+            <textevent timeoffset="80" message="In the next block we repeat the process, but extend the intervals."/>
+            <textevent timeoffset="100" message="Let&apos;s get into it!"/>
+        </SteadyState>
+        <IntervalsT Repeat="5" OnDuration="120" OffDuration="40" OnPower="0.91999996" OffPower="1.3" pace="0">
+            <textevent timeoffset="0" message="Back to threshold level"/>
+            <textevent timeoffset="110" message="Get ready for the change to low cadence, big power."/>
+            <textevent timeoffset="140" message="Hold this power all the way!"/>
+            <textevent timeoffset="240" message="How was the extended climb? Hard work?"/>
+            <textevent timeoffset="270" message="Next hill."/>
+            <textevent timeoffset="300" message="Power over the top!"/>
+            <textevent timeoffset="400" message="Just 3 more hills!"/>
+            <textevent timeoffset="580" message="Great work. You&apos;re almost there!"/>
+            <textevent timeoffset="740" message="Last hill! "/>
+        </IntervalsT>
+        <SteadyState Duration="120" Power="0.64999998" pace="0">
+            <textevent timeoffset="30" message="That was a fantastic effort."/>
+            <textevent timeoffset="60" message="Now for the finale!"/>
+            <textevent timeoffset="90" message="Did I mention this earlier?"/>
+            <textevent timeoffset="110" message="Let&apos;s start the effort and I&apos;ll explain..."/>
+        </SteadyState>
+        <Ramp Duration="600" PowerLow="0.92000008" PowerHigh="1.02" pace="0">
+            <textevent timeoffset="30" message="There is no denying the benefits to completing long threshold efforts."/>
+            <textevent timeoffset="60" message="And today is that day!"/>
+            <textevent timeoffset="90" message="You have worked hard and climbed the hills."/>
+            <textevent timeoffset="120" message="Now it&apos;s time to bring it home."/>
+            <textevent timeoffset="150" message="The power starts under threshold here, but we are going to build it up."/>
+            <textevent timeoffset="180" message="This is race level intensity now!"/>
+            <textevent timeoffset="210" message="You&apos;re going to bring it home solo!"/>
+            <textevent timeoffset="300" message="That&apos;s halfway!"/>
+            <textevent timeoffset="400" message="Remain composed throughout the effort."/>
+            <textevent timeoffset="500" message="The final interval is going to be big."/>
+            <textevent timeoffset="520" message="I know you&apos;re hurting but you&apos;ve got this in you."/>
+            <textevent timeoffset="540" message="We are going to attack a long way out from the line for the win."/>
+            <textevent timeoffset="560" message="It will be a 1min effort."/>
+            <textevent timeoffset="580" message="Let&apos;s go... big effort!"/>
+        </Ramp>
+        <SteadyState Duration="60" Power="1.25" pace="0">
+            <textevent timeoffset="0" message="UP, UP, UP!!"/>
+            <textevent timeoffset="30" message="Out of the seat and bring it home!"/>
+        </SteadyState>
+        <SteadyState Duration="300" Power="0.5" pace="0">
+            <textevent timeoffset="30" message="Incredible work again today"/>
+            <textevent timeoffset="60" message="That was big."/>
+            <textevent timeoffset="90" message="Enjoy the feeling of achievement after an effort like that. This hopefully makes the discomfort during worth it."/>
+            <textevent timeoffset="120" message="That was a tough and effective training session!"/>
+            <textevent timeoffset="150" message="Be sure to take at least 24 hours between sessions if possible, and refuel / rehydrate well before starting it."/>
+        </SteadyState>
+    </workout>
+</workout_file>

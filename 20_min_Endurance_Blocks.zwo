@@ -1,0 +1,34 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>20 min Endurance Blocks</name>
+    <description>20 minute blocks of increasing Z2 efforts</description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="Endurance"/>
+    </tags>
+    <workout>
+        <Warmup Duration="360" PowerLow="0.44403845" PowerHigh="0.75173074" pace="0"/>
+        <SteadyState Duration="120" Power="0.54019231" pace="0"/>
+        <SteadyState Duration="60" Power="1.0401924" pace="0"/>
+        <SteadyState Duration="60" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="60" Power="1.0401924" pace="0"/>
+        <SteadyState Duration="240" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.67480767" pace="0"/>
+        <SteadyState Duration="300" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="300" Power="0.71326923" pace="0"/>
+        <SteadyState Duration="300" Power="0.73250002" pace="0"/>
+        <SteadyState Duration="180" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.67480767" pace="0"/>
+        <SteadyState Duration="300" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="300" Power="0.71326923" pace="0"/>
+        <SteadyState Duration="300" Power="0.73250002" pace="0"/>
+        <SteadyState Duration="180" Power="0.5" pace="0"/>
+        <SteadyState Duration="300" Power="0.61711538" pace="0"/>
+        <SteadyState Duration="300" Power="0.77096152" pace="0"/>
+        <SteadyState Duration="300" Power="0.61711538" pace="0"/>
+        <SteadyState Duration="300" Power="0.77096152" pace="0"/>
+        <SteadyState Duration="180" Power="0.5" pace="0"/>
+        <Cooldown Duration="420" PowerLow="0.61711538" PowerHigh="0.25173077" pace="0"/>
+    </workout>
+</workout_file>

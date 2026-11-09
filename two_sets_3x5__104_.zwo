@@ -1,0 +1,28 @@
+<workout_file>
+    <author>J.Gomez (TeamQuad)</author>
+    <name>two sets 3x5'@104%</name>
+"    <description>Threshold intervals, 6 x 5 min @ 104%"
+</description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+"        <Warmup Duration=""240"" PowerLow=""0.2545"" PowerHigh=""0.75449997"" pace=""1428186484""/>"
+"        <SteadyState Duration=""30"" Power=""0.95449996"" pace=""1428186484""/>"
+"        <SteadyState Duration=""60"" Power=""0.65449995"" pace=""1428186484""/>"
+"        <SteadyState Duration=""30"" Power=""0.95449996"" pace=""1428186484""/>"
+"        <SteadyState Duration=""120"" Power=""0.50449997"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""1.0428138"" pace=""1428186484""/>"
+"        <SteadyState Duration=""150"" Power=""0.70449996"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""1.0451576"" pace=""1428186484""/>"
+"        <SteadyState Duration=""150"" Power=""0.70449996"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""1.0440385"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""0.4555769"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""1.0420325"" pace=""1428186484""/>"
+"        <SteadyState Duration=""150"" Power=""0.70449996"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""1.0427487"" pace=""1428186484""/>"
+"        <SteadyState Duration=""150"" Power=""0.70449996"" pace=""1428186484""/>"
+"        <SteadyState Duration=""300"" Power=""1.0445"" pace=""1428186484""/>"
+"        <FreeRide Duration=""120"" FlatRoad=""1""/>"
+"        <Cooldown Duration=""300"" PowerLow=""0.61711538"" PowerHigh=""0.25173077"" pace=""1428186484""/>"
+    </workout>
+</workout_file>

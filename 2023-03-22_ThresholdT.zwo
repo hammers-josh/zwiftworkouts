@@ -1,0 +1,34 @@
+<workout_file>
+	<author>Chris Murphy (via TrainingPeaks)</author>
+	<name>Threshold Tolerance: 4x10M</name>
+	<description>20M building up to 60-70% FTP to warm up, including 1M @ 100% FTP.
+
+4x10M @ 98-102% FTP, taking 3M of easy spinning for active recovery between intervals (roughly 40-50% FTP, but coasting and light pedalling is fine too).
+
+Remaining time up to 1H20M @ 60-70% FTP.
+
+PURPOSE: Helps improve time to exhaustion at the lactate threshold, probably through improvements in improved pain tolerance, muscular endurance and possibly improved lactate shuttling and buffering.
+
+This session might also contribute to increased lactate threshold power to a small extent, but it&apos;s main benefit is around increasing time to exhaustion, as evidenced here:
+https://pubmed.ncbi.nlm.nih.gov/14740217/</description>
+	<sportType>bike</sportType>
+	<tags/>
+	<workout>
+		<SteadyState Duration="120" Power="0.5">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.6">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.7">
+		</SteadyState>
+		<SteadyState Duration="240" Power="0.65">
+		</SteadyState>
+		<SteadyState Duration="60" Power="1">
+		</SteadyState>
+		<SteadyState Duration="120" Power="0.65">
+		</SteadyState>
+		<IntervalsT Repeat="4" OnDuration="600" OnPower="1" OffDuration="180" OffPower="0.45">
+		</IntervalsT>
+		<Cooldown Duration="300" PowerHigh="0.55" PowerLow="0.75">
+		</Cooldown>
+	</workout>
+</workout_file>

@@ -1,0 +1,19 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>Z2/Z3 Intervals</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags>
+        <tag name="INTERVALS"/>
+        <tag name="Endurance"/>
+    </tags>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.44403845" PowerHigh="0.79019231" pace="0"/>
+        <SteadyState Duration="180" Power="0.57865381" pace="0"/>
+        <IntervalsT Repeat="6" OnDuration="300" OffDuration="30" OnPower="0.75173074" OffPower="0.57865381" pace="0"/>
+        <IntervalsT Repeat="6" OnDuration="300" OffDuration="30" OnPower="0.80942309" OffPower="0.57865381" pace="0"/>
+        <IntervalsT Repeat="6" OnDuration="300" OffDuration="30" OnPower="0.75173074" OffPower="0.57865381" pace="0"/>
+        <IntervalsT Repeat="6" OnDuration="300" OffDuration="30" OnPower="0.80942309" OffPower="0.57865381" pace="0"/>
+        <Cooldown Duration="600" PowerLow="0.75173074" PowerHigh="0.50173074" pace="0"/>
+    </workout>
+</workout_file>

@@ -1,0 +1,48 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>Peaks &amp; valleys</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="600" PowerLow="0.48249999" PowerHigh="0.75173074" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.75173074" pace="0"/>
+        <SteadyState Duration="240" Power="0.80942309" pace="0"/>
+        <SteadyState Duration="120" Power="0.96326923" pace="0"/>
+        <SteadyState Duration="60" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="30" Power="1.2517308" pace="0"/>
+        <SteadyState Duration="60" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="120" Power="0.96326923" pace="0"/>
+        <SteadyState Duration="240" Power="0.77096152" pace="0"/>
+        <SteadyState Duration="360" Power="0.67480767" pace="0"/>
+        <SteadyState Duration="240" Power="0.80942309" pace="0"/>
+        <SteadyState Duration="120" Power="0.92480767" pace="0"/>
+        <SteadyState Duration="60" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="30" Power="1.2517308" pace="0"/>
+        <SteadyState Duration="60" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="120" Power="1.0017308" pace="0"/>
+        <SteadyState Duration="240" Power="0.77096152" pace="0"/>
+        <SteadyState Duration="360" Power="0.67480767" pace="0"/>
+        <SteadyState Duration="60" Power="1.2132692" pace="0"/>
+        <SteadyState Duration="120" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="180" Power="0.92480767" pace="0"/>
+        <SteadyState Duration="240" Power="0.79019231" pace="0"/>
+        <SteadyState Duration="300" Power="0.67480767" pace="0"/>
+        <SteadyState Duration="180" Power="0.57865381" pace="0"/>
+        <SteadyState Duration="300" Power="0.71326923" pace="0"/>
+        <SteadyState Duration="240" Power="0.77096152" pace="0"/>
+        <SteadyState Duration="180" Power="0.94403845" pace="0"/>
+        <SteadyState Duration="120" Power="1.0978847" pace="0"/>
+        <SteadyState Duration="30" Power="1.2517308" pace="0"/>
+        <FreeRide Duration="600" FlatRoad="0"/>
+        <IntervalsT Repeat="8" OnDuration="15" OffDuration="60" OnPower="1.2517308" OffPower="0.50173074" pace="0"/>
+        <FreeRide Duration="300" FlatRoad="0"/>
+        <IntervalsT Repeat="7" OnDuration="10" OffDuration="60" OnPower="1.2517308" OffPower="0.50173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.65557688" pace="0"/>
+        <SteadyState Duration="300" Power="0.80942309" pace="0"/>
+        <SteadyState Duration="300" Power="0.75173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.77096152" pace="0"/>
+        <FreeRide Duration="380" FlatRoad="0"/>
+    </workout>
+</workout_file>

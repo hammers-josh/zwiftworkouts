@@ -1,0 +1,24 @@
+<workout_file>
+    <author>J.Hammers</author>
+    <name>105 mins @ Z2</name>
+    <description></description>
+    <sportType>bike</sportType>
+    <tags/>
+    <workout>
+        <Warmup Duration="300" PowerLow="0.44403845" PowerHigh="0.75173074" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="1800" Power="0.75173074" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.69403845" pace="0"/>
+        <SteadyState Duration="300" Power="0.71326923" pace="0"/>
+        <SteadyState Duration="300" Power="0.73250002" pace="0"/>
+        <SteadyState Duration="300" Power="0.75173074" pace="0"/>
+        <SteadyState Duration="300" Power="0.71326923" pace="0"/>
+        <SteadyState Duration="300" Power="0.67480767" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="1800" Power="0.75173074" pace="0"/>
+        <SteadyState Duration="120" Power="0.50173074" pace="0"/>
+        <SteadyState Duration="900" Power="0.75173074" pace="0"/>
+        <Cooldown Duration="120" PowerLow="0.57865381" PowerHigh="0.50173074" pace="0"/>
+    </workout>
+</workout_file>
